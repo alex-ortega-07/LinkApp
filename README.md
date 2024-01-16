@@ -19,3 +19,10 @@ An application to facilitate the link storing locally
 ## Requirements
 
 Before installing it, make sure you have Python installed on your machine.
+
+## Screenshots
+
+<p align="center">
+  <img src="/Graphics/LinkApp login black.png">
+  <img src="/Graphics/LinkApp login white.png">
+</p>
