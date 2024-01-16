@@ -7,3 +7,5 @@
 </p>
 
 # LinkApp
+
+An application to facilitate the link storing locally
