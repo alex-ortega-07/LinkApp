@@ -15,3 +15,7 @@ An application to facilitate the link storing locally
 1. Clone this repo.
 2. Execute `installer.bat` and follow the steps. All Python libraries needed are going to be installed.
 3. A shortcut will be added to your Desktop. Execute it.
+
+## Requirements
+
+Before installing it, make sure you have Python installed on your machine.
