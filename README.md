@@ -9,3 +9,9 @@
 # LinkApp
 
 An application to facilitate the link storing locally
+
+## How to install and run it
+
+1. Clone this repo.
+2. Execute `installer.bat` and follow the steps. All Python libraries needed are going to be installed.
+3. A shortcut will be added to your Desktop. Execute it.
