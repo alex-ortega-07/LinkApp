@@ -26,3 +26,7 @@ Before installing it, make sure you have Python installed on your machine.
   <img src="/Graphics/LinkApp login black.png">
   <img src="/Graphics/LinkApp login white.png">
 </p>
+
+## Find a bug?
+
+If you found an issue or would like to submit an improvement to this project, please submit an issue using the issues tab above. If you would like to submit a PR with a fix, reference the issue you created!
