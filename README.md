@@ -25,6 +25,9 @@ Before installing it, make sure you have Python installed on your machine.
 <p align="center">
   <img src="/Graphics/LinkApp login black.png">
   <img src="/Graphics/LinkApp login white.png">
+  <br>
+  <img src="/Graphics/LinkApp home black.png">
+  <img src="/Graphics/LinkApp home white.png">
 </p>
 
 ## Find a bug?
